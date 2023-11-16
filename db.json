@@ -1,36 +1,8 @@
 {
-  "blogs": [
+  "posts": [
     {
       "id": 1,
-      "title": "Introduction to React",
-      "author": "John Doe",
-      "date": "2023-11-12",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
-      "tags": ["React", "JavaScript", "Web Development"]
-    },
-    {
-      "id": 2,
-      "title": "CSS Tips and Tricks",
-      "author": "Jane Smith",
-      "date": "2023-11-13",
-      "content": "Suspendisse potenti. Quisque rhoncus euismod nibh sit amet...",
-      "tags": ["CSS", "Frontend", "Styling"]
-    },
-    {
-      "id": 3,
-      "title": "Node.js Basics",
-      "author": "Mike Johnson",
-      "date": "2023-11-14",
-      "content": "Aenean vel lacus vel leo ullamcorper consequat nec ac neque...",
-      "tags": ["Node.js", "Backend", "JavaScript"]
-    },
-    {
-      "id": 4,
-      "title": "Getting Started with GraphQL",
-      "author": "Emily Williams",
-      "date": "2023-11-15",
-      "content": "Pellentesque habitant morbi tristique senectus et netus et malesuada...",
-      "tags": ["GraphQL", "API", "Web Development"]
+      "title": "hello2222"
     }
   ],
   "profile": {
