@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Power of React Hooks",
+      "author": "Alice Johnson",
+      "date": "2023-11-12",
+      "content": "Exploring the versatility and simplicity of React Hooks. Learn how to leverage state and lifecycle features in functional components, making React development more concise and expressive.",
+      "tags": ["React", "Hooks", "Web Development"]
+    },
+    {
+      "id": 2,
+      "title": "Mastering CSS Flexbox",
+      "author": "Bob Smith",
+      "date": "2023-11-13",
+      "content": "Dive deep into the world of CSS Flexbox and discover advanced techniques for building responsive and flexible layouts. Tips and tricks for creating modern web designs with ease.",
+      "tags": ["CSS", "Flexbox", "Frontend"]
+    },
+    {
+      "id": 3,
+      "title": "Building Scalable APIs with Node.js",
+      "author": "Charlie Brown",
+      "date": "2023-11-14",
+      "content": "Explore best practices for designing and developing scalable APIs using Node.js. From routing to middleware, this guide covers essential concepts for creating robust backend services.",
+      "tags": ["Node.js", "API", "Backend"]
+    },
+    {
+      "id": 4,
+      "title": "GraphQL: A Modern Approach to APIs",
+      "author": "David Miller",
+      "date": "2023-11-15",
+      "content": "Uncover the advantages of GraphQL in modern web development. Learn how GraphQL simplifies data fetching, reduces over-fetching, and enhances the efficiency of building client-server interactions.",
+      "tags": ["GraphQL", "API", "Web Development"]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
